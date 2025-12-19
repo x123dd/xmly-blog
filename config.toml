@@ -1,0 +1,7 @@
+baseURL = "https://xmly-blog.pages.dev/"
+languageCode = "zh-CN"
+title = "我的 XMly 博客"
+theme = ""
+
+[params]
+  description = "Hugo 博客示例"
