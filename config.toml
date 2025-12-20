@@ -1,7 +1,7 @@
-baseURL = "https://xmly-blog.pages.dev/"
+baseURL = "https://xmdly.online/"
 languageCode = "zh-CN"
-title = "我的 XMly 博客"
+title = "XM's Blog"
 theme = "hugo-paper"
 
 [params]
-  description = "Hugo 博客示例"
+  description = "A Hugo blog on Cloudflare Pages"
